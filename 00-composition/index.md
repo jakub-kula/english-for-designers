@@ -3,6 +3,7 @@
 ***Draw a picture by following a few simple instructions.
 Keep the reference picture hidden throughout the drawing process.
 Compare your results with the provided reference picture when you're done.***
+
 *Play fair and have fun!*
 
 **Instructions:**
