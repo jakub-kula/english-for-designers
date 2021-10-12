@@ -14,4 +14,4 @@ Compare your results with the provided reference picture when you're done.***
 5. **Recap:** The result should look something like a flute. One rectangle, 4 circles inside the rectangle, 1 outside the rectangle and one of the circles filled in. All of the circles should be the same size and centrally aligned in one imaginary line. None of the circles shoud touch the rectangle.
 ***
 ***When you're done, compare your results with the reference picture below:***
-![Composition 1](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/01-comp.png)
+![Reference picture](img/reference-picture.png)
