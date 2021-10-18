@@ -4,6 +4,8 @@
 
 **Alt text:** An F L ligature that (through it’s shape) reveals a dark monochromatic winter photograph beneath a light gray background.
 
+<img align="right" width="100" height="100" src="img/fl-ligature-kula.png">
+
 - - -
 
 *ﬂ*, Jakub Kula. Digital composition. 2021
