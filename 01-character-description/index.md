@@ -2,7 +2,7 @@
 
 ![An F L ligature that reveals a dark monochromatic winter photograph beneath a light gray background through it's shape.](img/fl-ligature-kula.png)
 
-**Alt text:** An FL ligature that reveals a dark monochromatic winter photograph beneath a light gray background through it's shape.
+**Alt text:** An F L ligature that reveals a dark monochromatic winter photograph beneath a light gray background through it's shape.
 
 - - -
 
