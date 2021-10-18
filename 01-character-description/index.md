@@ -5,8 +5,7 @@
 **Alt text:** An F L ligature that (through it’s shape) reveals a dark monochromatic winter photograph beneath a light gray background.
 
 <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="audio-description.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
