@@ -11,7 +11,7 @@ Your browser does not support the audio element.
 
 - - -
 
-*ﬂ*, Jakub Kula. Digital composition. 2021
+*ﬂ*, Jakub Kula. Digital artwork. 2021
 
 *Nikon D750, 20 mm, f/5.6, 30 sec., ISO 2500  
 Adobe Illustrator, Futura PT Bold*
