@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! My name is Jakub and I see design as an important contribution to society. I’m a designer mainly focused on advertising in both print and online media.
+Hi! My name is Jakub and I see design as an important contribution to society. <br> I’m a designer mainly focused on advertising in both print and online media.
 
 **Check out some of my work:**
 [Wedos Redesign Case Study](case-study.md)
