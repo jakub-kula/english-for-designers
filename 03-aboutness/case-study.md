@@ -1,6 +1,7 @@
 # Wedos Logo Redesign
 **Project background:** <br>
-This design project started as a school assignment to redesign a logo of a company of my choice. I chose Wedos since I’ve had a good previous experience with their services. At first glance, their logo didn’t seem to fit into the overall visual identity. I couldn’t resist the urge to try and redesign the logo.
+This design project started as a school assignment to redesign a logo of a company of my choice. I chose Wedos since I’ve had a good previous experience with their services. At first glance, their logo didn’t seem to fit into the overall visual identity. I couldn’t resist the urge to try and redesign the logo.<br><br>
+Here are the results and the creative process behind it.
 
 ![Placeholder](img/00_intro.png)
 ![Placeholder](img/01_before.png)
