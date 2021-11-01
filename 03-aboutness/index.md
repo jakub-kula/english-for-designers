@@ -10,7 +10,7 @@ Hi! My name is Jakub and I see design as an important contribution to society. I
 ## My Story
 <img src="img/00_kula_headshot.png" alt="Closeup portrait of a person looking away from the camera while making a silly sad face." width="170px"/>
 
-I would describe myself as a designer with an outstanding attention to detail. I aim to see and think about things that are not visible at first glance.
+I would describe myself as a designer with an outstanding attention to detail. <br> I aim to see and think about things that are not visible at first glance.
 
 For me, design is supposed to be beautiful, visually pleasing, easy to grasp and while maintaining all these attributes, it still must fulfill its original purpose.
 
