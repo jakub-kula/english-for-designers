@@ -16,5 +16,4 @@ For me, design is supposed to be beautiful, visually pleasing, easy to grasp <br
 
 Throughout the years, I’ve gained most of my experience working on projects that posed <br> a challenge of some sort – problem solving and critical thinking represent a significant part <br> of the learning process when it comes to design.
 
-In the outside world, I enjoy photography, going out into the wild, exploring new places and spending time with people that matter.
-
+In the outside world, I enjoy photography, going out into the wild, <br> exploring new places and spending time with people that matter.
