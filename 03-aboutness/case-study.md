@@ -9,13 +9,8 @@ This design project started as a school assignment to redesign a logo of a compa
 
 ---
 
-Before redesign:
-
-![Placeholder](img/01_before.png)
-
-After redesign:
-
-![Placeholder](img/02_after.png)
+<img style="float: right;" src="img/01_before.png" alt="drawing" width="240"/>
+<img style="float: right;" src="img/02_after.png" alt="drawing" width="240"/>
 
 **Original vs. redesign**
 The original logo is unfortunately a little old fashioned and does not comply with the current overall visual identity of Wedos. They've changed their webpage, ui, ux and visual presentation multiple times without a single change to the logo. My main focus during the redesign was to adapt the logo to the current visual identity.
