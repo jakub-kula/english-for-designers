@@ -10,8 +10,8 @@ This design project started as a school assignment to redesign a logo of a compa
 ---
 
 <p float="left">
-  <img src="img/01_before.png" alt="drawing" width="45%"/>
-  <img src="img/02_after.png" alt="drawing" width="45%"/>
+  <img src="img/01_before.png" alt="drawing" width="49%"/>
+  <img src="img/02_after.png" alt="drawing" width="49%"/>
 </p>
 
 
