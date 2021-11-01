@@ -1,6 +1,6 @@
 # Wedos Logo Redesign
-**Project background:**
-I would describe myself as a designer with an outstanding attention to detail. I aim to see and think about things that are not visible at first glance.
+**Project background:** <br>
+This design project started as a school assignment to redesign a logo of a company of my choice. I chose Wedos since I’ve had a good previous experience with their services. At first glance, their logo didn’t seem to fit into the overall visual identity. I couldn’t resist the urge to try and redesign the logo.
 
 ![Placeholder](img/00_intro.png)
 ![Placeholder](img/01_before.png)
