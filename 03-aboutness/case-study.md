@@ -19,7 +19,7 @@ The original logo is unfortunately a little old fashioned and does not comply wi
 
 ---
 
-**Deconstructing the logo**<br>
+## **Deconstructing the logo**<br>
 Redesigning a logo like this comes with a few challenges. The main task when redesigning was to make sure that the new logo keeps all the fundamental meanings, ideas and the main message as close to the original as possible. The second challenge was to redesign the logo in a way that’s still recognizable and visually similar to the original, keeping the format, colors and the overall feeling look intact.
 The specific meanings and the process of redesigning all the different elements of the symbol is explained in the image above.
 
@@ -36,7 +36,7 @@ Font Family
 
 ![Placeholder](img/05_font.png)
 
-**Main changes**<br>
+## **Main changes**<br>
 There were a few major changes to the logo consisting of 3 main parts. The first one was redesigning the symbol as explained in the previous picture. Secondly, there was a change in the logotype. The Wedos title has been replaced with a brand new logotype based on the Sofia Pro typeface and customized to fit into the general rounded style seen in the symbol. The last major change was the distribution of space and size of the logotype and symbol in relation to each other. The resulting logo is thereby clearer and easier to read with a balanced distribution of stroke weights.
 
 ---
