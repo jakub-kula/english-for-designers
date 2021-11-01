@@ -40,9 +40,7 @@ There were a few major changes to the logo. The first one was redesigning the sy
 
 ![Placeholder](img/05_font.png)
 
----
-
-## ****<br>
+*Design in action:*
 
 ![Placeholder](img/05_mockup_1.png)
 ![Placeholder](img/06_mockup_2.png)
