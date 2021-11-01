@@ -28,6 +28,8 @@ The specific meanings and the process of redesigning all the different elements 
 
 ---
 
+## **Main changes**<br>
+There were a few major changes to the logo consisting of 3 main parts. The first one was redesigning the symbol as explained in the previous picture. Secondly, there was a change in the logotype. The Wedos title has been replaced with a brand new logotype based on the Sofia Pro typeface and customized to fit into the general rounded style seen in the symbol. The last major change was the distribution of space and size of the logotype and symbol in relation to each other. The resulting logo is thereby clearer and easier to read with a balanced distribution of stroke weights.
 Main Changes
 
 ![Placeholder](img/04_changes.png)
@@ -36,10 +38,9 @@ Font Family
 
 ![Placeholder](img/05_font.png)
 
-## **Main changes**<br>
-There were a few major changes to the logo consisting of 3 main parts. The first one was redesigning the symbol as explained in the previous picture. Secondly, there was a change in the logotype. The Wedos title has been replaced with a brand new logotype based on the Sofia Pro typeface and customized to fit into the general rounded style seen in the symbol. The last major change was the distribution of space and size of the logotype and symbol in relation to each other. The resulting logo is thereby clearer and easier to read with a balanced distribution of stroke weights.
-
 ---
+
+## **Logo in action**<br>
 
 ![Placeholder](img/05_mockup_1.png)
 ![Placeholder](img/06_mockup_2.png)
