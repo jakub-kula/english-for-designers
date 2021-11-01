@@ -3,14 +3,14 @@
 ---
 
 ## **Project background**<br>
-This design project started as a school assignment to redesign a logo of a company. I chose to redesign Wedos. I’ve had a good previous experience with their services but at first glance, their logo didn’t seem to fit into the overall visual identity. I couldn’t resist the urge to try and redesign the logo.
+This design project started as a school assignment to redesign a logo of a company. I chose to redesign Wedos - a leading web services company. I’ve had a good previous experience with their services but at first glance, their logo didn’t seem to fit into the overall visual identity. I couldn’t resist the urge to try and redesign the logo.
 
 ![Placeholder](img/00_intro.png)
 
 ---
 
 ## **Original vs. redesign**<br>
-The original logo is unfortunately a little old fashioned and does not comply with the current overall visual identity of the company. They've changed their website, ui, ux and visual presentation multiple times without a single change to the logo. My main focus during the redesign was to adapt the logo to the current modern visual identity.
+The original logo is unfortunately a little old fashioned and does not comply with the overall visual identity of the company. They've changed their website, ui, ux and visual presentation multiple times without a single change to the logo since its creation. My main focus during the redesign was to adapt the logo to the current modern visual identity.
 
 <p float="left">
   <img src="img/01_before.png" alt="drawing" width="49%"/>
@@ -30,7 +30,7 @@ The explanations and visualisation of the creative process regarding the symbol 
 ---
 
 ## **Main changes**<br>
-There were a few major changes to the logo. The first one was redesigning the symbol as explained in the previous picture. Secondly, there was a change in the logotype. The Wedos title has been replaced with a brand new logotype based on the Sofia Pro typeface and customized to fit into the general rounded style which starts in the symbol. The last major change was the distribution of space and size of the logotype and symbol in relation to each other. The resulting logo is thereby clearer and easier to read with a balanced distribution of stroke weights.<br>
+There were a few major changes to the logo. The first one was redesigning the symbol as explained in the previous picture. Secondly, there was a change in the logotype. The Wedos title has been replaced with a brand new logotype based on the Sofia Pro typeface and customized to fit into the general rounded style which originated within the symbol. The last major change was the distribution of space and size of the logotype and symbol in relation to each other. The resulting logo is thereby clearer and easier to read with a balanced distribution of stroke weights.<br>
 
 *Key changes:*
 
@@ -42,7 +42,7 @@ There were a few major changes to the logo. The first one was redesigning the sy
 
 ---
 
-## **Logo in action**<br>
+## ****<br>
 
 ![Placeholder](img/05_mockup_1.png)
 ![Placeholder](img/06_mockup_2.png)
