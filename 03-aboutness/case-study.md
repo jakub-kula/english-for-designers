@@ -9,7 +9,7 @@ This design project started as a school assignment to redesign a logo of a compa
 
 ---
 
-<img style="float: right;" src="img/01_before.png" alt="drawing" width="240"/>
+<img style="float: left;" src="img/01_before.png" alt="drawing" width="240"/>
 <img style="float: right;" src="img/02_after.png" alt="drawing" width="240"/>
 
 **Original vs. redesign**
