@@ -2,14 +2,14 @@
 
 ---
 
-##**Project background**<br>
+## **Project background**<br>
 This design project started as a school assignment to redesign a logo of a company of my choice. I chose Wedos since I’ve had a good previous experience with their services. At first glance, their logo didn’t seem to fit into the overall visual identity. I couldn’t resist the urge to try and redesign the logo.
 
 ![Placeholder](img/00_intro.png)
 
 ---
 
-##**Original vs. redesign**<br>
+## **Original vs. redesign**<br>
 The original logo is unfortunately a little old fashioned and does not comply with the current overall visual identity of Wedos. They've changed their webpage, ui, ux and visual presentation multiple times without a single change to the logo. My main focus during the redesign was to adapt the logo to the current visual identity.
 
 <p float="left">
