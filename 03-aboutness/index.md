@@ -8,8 +8,7 @@ Hi! My name is Jakub and I see design as an important contribution to society. I
 [Wedos Redesign Case Study](case-study.md)
 
 ## My Story
-
-![Closeup portrait of a person looking away from the camera while making a silly sad face.](img/00_kula_headshot.png)
+<img src="img/00_kula_headshot.png" alt="Closeup portrait of a person looking away from the camera while making a silly sad face." width="200"/>
 
 I would describe myself as a designer with an outstanding attention to detail. I aim to see and think about things that are not visible at first glance.
 
