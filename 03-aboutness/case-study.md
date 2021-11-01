@@ -13,7 +13,7 @@ This design project started as a school assignment to redesign a logo of a compa
 The original logo is unfortunately a little old fashioned and does not comply with the current overall visual identity of Wedos. They've changed their webpage, ui, ux and visual presentation multiple times without a single change to the logo. My main focus during the redesign was to adapt the logo to the current visual identity.
 
 <p float="left">
-  <img src="img/01_before.png" alt="drawing" width="49%"/>
+  <img style="box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;" src="img/01_before.png" alt="drawing" width="49%"/>
   <img src="img/02_after.png" alt="drawing" width="49%"/>
 </p>
 
