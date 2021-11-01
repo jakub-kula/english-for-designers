@@ -4,7 +4,8 @@ This design project started as a school assignment to redesign a logo of a compa
 *Here are the results and the creative process behind it.*
 
 ![Placeholder](img/00_intro.png)
-
+<br>
+<br>
 **Starting point** <br>
 The original logo (as you can see below) is unfortunaltely a little old fashioned and does not comply with the current overall visual identity of Wedos. They've changed their webpage, ui, ux and visual presentation multiple times without a single change to the logo. My main focus during the redesign was to 
 
