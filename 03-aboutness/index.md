@@ -4,7 +4,7 @@
 
 Hi! My name is Jakub and I see design as an important contribution to society. <br> I’m a designer mainly focused on advertising in both print and online media.
 
-**Check out some of my previous work:**
+**Check out some of my previous work:** <br>
 [Wedos Redesign Case Study](case-study.md)
 
 ## My Story
