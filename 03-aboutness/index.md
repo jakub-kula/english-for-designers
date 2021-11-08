@@ -14,6 +14,6 @@ I would describe myself as a designer with an unordinary attention to detail. <b
 
 For me, design is supposed to be beautiful, visually pleasing, easy to grasp <br> and while maintaining all these attributes, it still must fulfill its original purpose.
 
-Throughout the years, I’ve gained most of my experience working on projects <br> that posed a challenge of some sort because problem solving and critical <br> thinking represent a significant part of the learning process when it comes to design.
+Throughout the years, I’ve gained most of my experience working on projects <br> that posed a challenge of some sort because problem solving and critical thinking <br> represent a significant part of the learning process when it comes to design.
 
 In the outside world, I enjoy photography, going out into the wild, <br> exploring new places and spending time with people that matter.
