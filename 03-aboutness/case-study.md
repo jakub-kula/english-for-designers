@@ -55,7 +55,5 @@ There were a few major changes to the logo. The first one was redesigning the sy
 
 ![Placeholder](img/08_webafter.png)
 
-*Logo:*
-
 ![Placeholder](img/05_mockup_1.png)
 ![Placeholder](img/06_mockup_2.png)
