@@ -46,5 +46,8 @@ There were a few major changes to the logo. The first one was redesigning the sy
 
 *Design in action:*
 
+![Placeholder](img/07_webbefore.png)
+![Placeholder](img/08_webafter.png)
+
 ![Placeholder](img/05_mockup_1.png)
 ![Placeholder](img/06_mockup_2.png)
