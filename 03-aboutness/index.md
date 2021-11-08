@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! My name is Jakub and I see design as an important contribution to society. <br> I’m a designer mainly focused on advertising in both print and online media.
+Hi! I'm Jakub Kula and I see design as an important contribution to society. <br> I’m a designer mainly focused on advertising and logo design.
 
 **Check out some of my previous work:** <br>
 [Wedos Redesign Case Study](case-study.md)
@@ -14,6 +14,6 @@ I would describe myself as a designer with an unordinary attention to detail. <b
 
 For me, design is supposed to be beautiful, visually pleasing, easy to grasp <br> and while maintaining all these attributes, it still must fulfill its original purpose.
 
-Throughout the years, I’ve gained most of my experience working on projects that posed <br> a challenge of some sort – problem solving and critical thinking represent a significant part <br> of the learning process when it comes to design.
+Throughout the years, I’ve gained most of my experience working on projects that posed <br> a challenge of some sort because problem solving and critical thinking represent a significant part <br> of the learning process when it comes to design.
 
 In the outside world, I enjoy photography, going out into the wild, <br> exploring new places and spending time with people that matter.
