@@ -1,4 +1,15 @@
-# Wedos Logo Redesign
+# Wedos
+## Logo redesign
+WEDOS Internet, a. s.
+https://www.wedos.cz
+
+Redesigning a logo to fit into the current visual identity.
+
+Jakub Kula, 2020
+
+---
+
+
 
 ---
 
