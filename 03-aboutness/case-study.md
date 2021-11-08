@@ -1,11 +1,10 @@
 # Wedos
 ## Logo redesign
-WEDOS Internet, a. s.
-https://www.wedos.cz
+WEDOS Internet, a. s.<br>
+https://www.wedos.cz<br>
+Jakub Kula, 2020
 
 **Goal?** Redesign a logo to fit into the current visual identity.
-
-Jakub Kula, 2020
 
 ---
 
