@@ -39,11 +39,26 @@
             </table>
             
 <h2 class="subtitle">Skills</h2>
-These are the skills blabla
-
+Design skills from previous work experience
 <ul>
-            <li>dasd</li>
-            <li>dasd</li>
-            <li>dasd</li>
-            <li>dasd</li>
+            <li>Logodesign, logo manuals, visual identities</li>
+            <li>Flyers, posters, brochures, business cards </li>
+            <li>Banners, billboards and other OOH advertising</li>
+            <li>Social media management, content creation and design</li>
+            <li>Simple motion design, logo animation, lower thirds</li>
+            <li>Visual and navigation system design, signage</li>
+            <li>Web design, online banners and web content design</li>
 </ul>
+
+Other skills & qualities
+<ul>
+            <li>Individual and professional approach</li>
+            <li>Being open to new challenges and experiments</li>
+            <li>Ability to quickly adapt to changes and new opportunities in order to gain further experience</li>
+</ul>
+
+Software and other skills
+**Adobe Illustrator, Photoshop, Lightroom** - Proficient - *Everyday workflow*
+**Adobe Premiere Pro, After Effects** - Competent - *Advanced occasional user*
+**Adobe Indesign, XD, Audition** - Advanced beginner
+
