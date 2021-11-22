@@ -1,3 +1,7 @@
+<h2 class="subtitle">Jakub Kula</h2>
+<p><a href="tel:+4733378901">+47 333 78 901</a></p>
+
+
 <h2 class="subtitle">Education</h2>
             <table class="education">
                 <tr>
