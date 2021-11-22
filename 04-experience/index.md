@@ -70,4 +70,4 @@
 
 <h3> Personal interests </h3>
 
-Hiking, photography, community driven projects and non-profit organizatzions (<a>href="https://www.vydra.sk">OZ Vydra</a>, <a>href="https://komunita.zastavmekorupciu.sk">Zastavme Korupciu</a>
+Hiking, photography, community driven projects and non-profit organizatzions
