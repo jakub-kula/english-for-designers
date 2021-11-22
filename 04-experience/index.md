@@ -1,6 +1,6 @@
 <h2 class="subtitle">Jakub Kula</h2>
 +421 123 456 789 <br>
-random.email@gmail.com <br>
+randommail@gmail.com <br>
 www.jakubkula.eu
 
 <h2 class="subtitle">Education</h2>
