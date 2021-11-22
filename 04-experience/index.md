@@ -3,7 +3,7 @@
                 <tr>
                     <td class="date">2019 - Current</td>
                     <td><a class="vskk" href="http://www.vskk.cz">Vysoká škola kreativní komunikace </a><br> <span class="light">Na Pankráci 420/54, <br>
-                        140 00 Praha 4 – Nusle, CZ</span><br><br>Grafický a mediální design <br> (Graphic and Media Design)</td>
+                        140 00 Praha 4 – Nusle, CZ</span><hr>Grafický a mediální design <br> (Graphic and Media Design)</td>
                 </tr>
                 <tr>
                     <td class="date">2015 - 2019</td>
