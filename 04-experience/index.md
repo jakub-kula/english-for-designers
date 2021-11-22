@@ -38,7 +38,7 @@
                 </tr>
             </table>
             
-<h2 class="subtitle">Skills</h2>
+<h2 class="subtitle">Skills</h2> <br>
 Design skills from previous work experience
 
 <ul>
