@@ -15,7 +15,7 @@
             <table>
                 <tr>
                     <td class="date">2020 - Current</td>
-                    <td><a class="notigo" href="https://www.notigo.cz">Notigo Agency s.r.o.</a><br><span class="light">Ad Agency</span></td>
+                    <td><a class="notigo" href="https://www.notigo.cz">Notigo Agency s.r.o.</a><br><span class="light">Advertising Agency</span></td>
                             <td>Main Graphic Designer / Art Director<br><span class="light">
                         <ul>
                             <li>Managing clients' visual identities</li>
