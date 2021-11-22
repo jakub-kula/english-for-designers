@@ -8,7 +8,7 @@
                 <tr>
                     <td class="date">2015 - 2019</td>
                     <td><a class="spsjm" href="https://www.spsjm.sk">SPŠ Jozefa Murgaša </a><br><span class="light">Hurbanova 6, <br>
-                        975 18 Banská Bystrica, SK</span><br><br>Multimédiá <br> (Multimedia design)</td>
+                        975 18 Banská Bystrica, SK</span><hr><br>Multimédiá <br> (Multimedia design)</td>
                 </tr>
             </table>
             <h2 class="subtitle">Employment</h2>
