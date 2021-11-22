@@ -16,7 +16,7 @@
                 <tr>
                     <td class="date">2020 - Current</td>
                     <td><a class="notigo" href="https://www.notigo.cz">Notigo Agency s.r.o.</a><br><span class="light">Ad Agency</span></td>
-                            <td><bold>Main Graphic Designer</bold><br><span class="light">
+                            <td>Main Graphic Designer<br><span class="light">
                         <ul>
                             <li>Managing clients' visual identities</li>
                             <li>Online: social media design and content creation, newsletters, advertising campaigns, webdesign</li>
