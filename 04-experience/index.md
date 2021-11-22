@@ -40,7 +40,7 @@
             
 <h2 class="subtitle">Skills</h2>
 
-Design skills from previous work experience
+<h3> Design skills from previous work experience 
 
 <ul>
             <li>Logodesign, logo manuals, visual identities</li>
@@ -52,7 +52,7 @@ Design skills from previous work experience
             <li>Web design, online banners and web content design</li>
 </ul>
 
-Other skills & qualities
+<h3> Other skills & qualities </h3>
 
 <ul>
             <li>Individual and professional approach</li>
@@ -60,7 +60,7 @@ Other skills & qualities
             <li>Ability to quickly adapt to changes and new opportunities in order to gain further experience</li>
 </ul>
 
-Software and other skills
+<h3> Software and other skills </h3>
 
 **Adobe Illustrator, Photoshop, Lightroom** - Proficient - *Everyday workflow* <br>
 **Adobe Premiere Pro, After Effects** - Competent - *Advanced occasional user*<br>
