@@ -58,7 +58,7 @@ Other skills & qualities
 </ul>
 
 Software and other skills
-**Adobe Illustrator, Photoshop, Lightroom** - Proficient - *Everyday workflow*
-**Adobe Premiere Pro, After Effects** - Competent - *Advanced occasional user*
+**Adobe Illustrator, Photoshop, Lightroom** - Proficient - *Everyday workflow* <br>
+**Adobe Premiere Pro, After Effects** - Competent - *Advanced occasional user*<br>
 **Adobe Indesign, XD, Audition** - Advanced beginner
 
