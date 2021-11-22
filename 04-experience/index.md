@@ -14,7 +14,7 @@
             <h2 class="subtitle">Employment</h2>
             <table>
                 <tr>
-                    <td class="date">2020 - Current</td>
+                    <td style="width: 25%; class="date">2020 - Current</td>
                     <td><a class="notigo" href="https://www.notigo.cz">Notigo Agency s.r.o.</a><br><span class="light">Advertising Agency</span></td>
                             <td>Main Graphic Designer / Art Director<br><span class="light">
                         <ul>
@@ -26,7 +26,7 @@
                     </span></td>
                 </tr>
                 <tr>
-                    <td class="date">2017 - 2020</td>
+                    <td style="width: 25%; class="date">2017 - 2020</td>
                     <td><a class="section" href="https:/www.style-shop.cz">Stylesection s.r.o.</a><br><span class="light">E-commerce project</span></td>
                     <td style="width: 55%;">Graphic designer<br><span class="light">
                         <ul>
