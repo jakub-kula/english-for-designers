@@ -38,8 +38,9 @@
                 </tr>
             </table>
             
-<h2 class="subtitle">Skills</h2> <br>
+<h2 class="subtitle">Skills</h2>
 Design skills from previous work experience
+ <br>
 
 <ul>
             <li>Logodesign, logo manuals, visual identities</li>
