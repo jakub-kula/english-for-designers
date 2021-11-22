@@ -40,6 +40,7 @@
             
 <h2 class="subtitle">Skills</h2>
 Design skills from previous work experience
+
 <ul>
             <li>Logodesign, logo manuals, visual identities</li>
             <li>Flyers, posters, brochures, business cards </li>
@@ -51,6 +52,7 @@ Design skills from previous work experience
 </ul>
 
 Other skills & qualities
+
 <ul>
             <li>Individual and professional approach</li>
             <li>Being open to new challenges and experiments</li>
