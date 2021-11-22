@@ -28,7 +28,7 @@
                 <tr>
                     <td class="date">2017 - 2020</td>
                     <td><a class="section" href="https:/www.style-shop.cz">Stylesection s.r.o.</a><br><span class="light">E-commerce project</span></td>
-                    <td style="width: 55%;">Grafik<br><span class="light">
+                    <td style="width: 55%;">Graphic designer<br><span class="light">
                         <ul>
                             <li>Managing the project design and visual identity from start to finish</li>
                             <li>Direct experience with content creation and managing advertising campaigns</li>
