@@ -40,7 +40,7 @@
             
 <h2 class="subtitle">Skills</h2>
 
-<h3> Design skills from previous work experience 
+<h3> Design skills from previous work experience  </h3>
 
 <ul>
             <li>Logodesign, logo manuals, visual identities</li>
