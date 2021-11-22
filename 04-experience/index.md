@@ -1,7 +1,7 @@
 <h2 class="subtitle">Jakub Kula</h2>
-+421 123 456 789
-random.email@gmail.com
-Portfolio: 
++421 123 456 789 <br>
+random.email@gmail.com <br>
+www.jakubkula.eu
 
 <h2 class="subtitle">Education</h2>
             <table class="education">
@@ -65,7 +65,7 @@ Portfolio:
             <li>Ability to quickly adapt to changes and new opportunities in order to gain further experience</li>
 </ul>
 
-<h3> Software and other </h3>
+<h3> Software & other </h3>
 
 **Adobe Illustrator, Photoshop, Lightroom** - Proficient - *Everyday workflow* <br>
 **Adobe Premiere Pro, After Effects** - Competent - *Advanced occasional user*<br>
