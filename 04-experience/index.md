@@ -37,3 +37,13 @@
                     </span></td></td>
                 </tr>
             </table>
+            
+<h2 class="subtitle">Skills</h2>
+These are the skills blabla
+
+<ul>
+            <li>dasd</li>
+            <li>dasd</li>
+            <li>dasd</li>
+            <li>dasd</li>
+</ul>
