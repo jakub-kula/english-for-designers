@@ -60,9 +60,14 @@
             <li>Ability to quickly adapt to changes and new opportunities in order to gain further experience</li>
 </ul>
 
-<h3> Software and other skills </h3>
+<h3> Software and other </h3>
 
 **Adobe Illustrator, Photoshop, Lightroom** - Proficient - *Everyday workflow* <br>
 **Adobe Premiere Pro, After Effects** - Competent - *Advanced occasional user*<br>
 **Adobe Indesign, XD, Audition** - Advanced beginner
 
+**Languages:** English (B2), Slovak (Native), Czech (Advanced)
+
+<h3> Personal interests </h3>
+
+Hiking, photography, community driven projects and non-profit organizatzions (<a>href="https://www.vydra.sk">OZ Vydra</a>, <a>href="https://komunita.zastavmekorupciu.sk">Zastavme Korupciu</a>
