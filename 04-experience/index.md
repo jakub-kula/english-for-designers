@@ -2,13 +2,13 @@
             <table class="education">
                 <tr>
                     <td class="date">2019 - Current</td>
-                    <td><a class="vskk" href="http://www.vskk.cz">Vysoká škola kreativní komunikace </a><br> <span class="light">Na Pankráci 420/54,
-                        140 00 Praha 4 – Nusle</span><br>Grafický a mediální design <br> (Graphic and Media Design)</td>
+                    <td><a class="vskk" href="http://www.vskk.cz">Vysoká škola kreativní komunikace </a><br> <span class="light">Na Pankráci 420/54, <br>
+                        140 00 Praha 4 – Nusle, CZ</span><br>Grafický a mediální design <br> (Graphic and Media Design)</td>
                 </tr>
                 <tr>
                     <td class="date">2015 - 2019</td>
-                    <td><a class="spsjm" href="https://www.spsjm.sk">SPŠ Jozefa Murgaša </a><br><span class="light">Hurbanova 6,
-                        975 18 Banská Bystrica</span><br>Multimédiá <br> (Multimedia design)</td>
+                    <td><a class="spsjm" href="https://www.spsjm.sk">SPŠ Jozefa Murgaša </a><br><span class="light">Hurbanova 6, <br>
+                        975 18 Banská Bystrica, SK</span><br>Multimédiá <br> (Multimedia design)</td>
                 </tr>
             </table>
             <h2 class="subtitle">Employment</h2>
