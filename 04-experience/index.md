@@ -39,8 +39,8 @@
             </table>
             
 <h2 class="subtitle">Skills</h2>
+
 Design skills from previous work experience
- <br>
 
 <ul>
             <li>Logodesign, logo manuals, visual identities</li>
@@ -61,6 +61,7 @@ Other skills & qualities
 </ul>
 
 Software and other skills
+
 **Adobe Illustrator, Photoshop, Lightroom** - Proficient - *Everyday workflow* <br>
 **Adobe Premiere Pro, After Effects** - Competent - *Advanced occasional user*<br>
 **Adobe Indesign, XD, Audition** - Advanced beginner
