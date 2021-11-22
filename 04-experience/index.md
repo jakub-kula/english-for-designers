@@ -30,9 +30,9 @@
                     <td><a class="section" href="https:/www.style-shop.cz">Stylesection s.r.o.</a><br><span class="light">E-commerce project</span></td>
                     <td style="width: 55%;">Graphic designer<br><span class="light">
                         <ul>
-                            <li>Managing the project design and visual identity from start to finish</li>
+                            <li>Managing design and visual identity from start to finish</li>
                             <li>Direct experience with content creation and managing advertising campaigns</li>
-                            <li>Design of PPC banners, webdesign, newsletters, product photography, OOH design</li>
+                            <li>Design of PPC banners, managing web content, newsletters, product photography, OOH design</li>
                         </ul>
                     </span></td></td>
                 </tr>
