@@ -16,11 +16,11 @@
                 <tr>
                     <td class="date">2020 - Current</td>
                     <td><a class="notigo" href="https://www.notigo.cz">Notigo Agency s.r.o.</a><br><span class="light">Ad Agency</span></td>
-                            <td>Main Graphic Designer<br><span class="light">
+                            <td>Main Graphic Designer / Art Director<br><span class="light">
                         <ul>
                             <li>Managing clients' visual identities</li>
-                            <li>Online: social media design and content creation, newsletters, advertising campaigns, webdesign</li>
-                            <li>Print: general OOH design, flyers, banners...</li>
+                            <li>Online: social media design and content creation, newsletters, designing advertising campaigns, webdesign</li>
+                            <li>Print: general OOH design, flyers, posters, banners, business cards </li>
                             <li>Other: logo design, corporate identity, motion design, photography</li>
                         </ul>
                     </span></td>
