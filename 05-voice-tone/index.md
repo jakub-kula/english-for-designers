@@ -1,5 +1,6 @@
-# My Voice & Tone
-### Jakub Kula
+# Jakub Kula - My Voice & Tone
+
+---
 
 ## Voice
 
