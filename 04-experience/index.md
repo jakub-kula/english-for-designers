@@ -1,7 +1,7 @@
 <h2 class="subtitle">Jakub Kula</h2>
 +421 123 456 789 <br>
 e.mail@gmail.com <br>
-[jakubkula.eu](https://www.jakubkula.eu) dd<br><br>
+[Vysoká škola kreativní komunikace](https://www.vskk.cz)
 
 |Year|School|Field of study|
 |:--- |:--- |:--- |
