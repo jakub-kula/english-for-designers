@@ -24,6 +24,7 @@ A summary of how I write and style texts.
 #### [Storytelling](06-storytelling/)
 Story of my (design) life. (WIP)
 
+
 ## Takeaways:
 Here are a few things I learned this semester.
 1. I was finally pushed to start using github in some way or another.
