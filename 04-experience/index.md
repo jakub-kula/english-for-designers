@@ -3,8 +3,17 @@
 e.mail@gmail.com <br>
 www.jakubkula.eu
 
+|Year|School|
+|-|-|
 | 2019 - Current | [Vysoká škola kreativní komunikace](www.vskk.cz) - Grafický a mediální design (Graphic and Media Design) |
-| 2015 - 2019   | [SPŠ Jozefa Murgaša](www.vskk.cz) Multimédiá (Multimedia design) |
+| 2015 - 2019   | [SPŠ Jozefa Murgaša](www.spsjm.sk) Multimédiá (Multimedia design) |
+
+|Year|Employer|Experience|
+|-|-|-|
+2020 - Current|[Notigo Agency](www.spsjm.sk) - Advertising Agency |Main Graphic Designer / Art Director<br>Managing clients' visual identities
+Online: social media design and content creation, newsletters, designing advertising campaigns, webdesign
+Print: general OOH design, flyers, posters, banners, business cards
+Other: logo design, corporate identity, motion design, photography
 
 <h2 class="subtitle">Education</h2>
             <table class="education">
