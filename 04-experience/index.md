@@ -1,7 +1,7 @@
 <h2 class="subtitle">Jakub Kula</h2>
 +421 123 456 789 <br>
 e.mail@gmail.com <br>
-www.jakubkula.eu<br>
+www.jakubkula.eu<br><br>
 
 |Year|School|Field of study|
 |-|-|-|
