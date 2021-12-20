@@ -30,3 +30,4 @@ Here are a few things I learned this semester.
 2. Content itself is more important than getting my spelling right.
 3. I realized the importance of writing good, acessible and clear text.
 4. Writing is hard. Even in my native language.
+
