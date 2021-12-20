@@ -3,11 +3,7 @@
 e.mail@gmail.com <br>
 www.jakubkula.eu
 
-| 2019 - Current| Vysoká škola kreativní komunikace
-Na Pankráci 420/54,
-140 00 Praha 4 – Nusle, CZ
-Grafický a mediální design
-(Graphic and Media Design) |
+| 2019 - Current| Vysoká škola kreativní komunikace Na Pankráci 420/54, 140 00 Praha 4 – Nusle, CZ, Grafický a mediální design (Graphic and Media Design) |
 | :---        |    :----:   |
 | Header      | Title       |
 | Paragraph   | Text        |
