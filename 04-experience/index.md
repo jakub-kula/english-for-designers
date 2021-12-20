@@ -4,7 +4,7 @@ e.mail@gmail.com <br>
 www.jakubkula.eu
 
 | 2019 - Current| [Vysoká škola kreativní komunikace](www.vskk.cz) - Grafický a mediální design (Graphic and Media Design) |
-| 2015 - 2019   | [SPŠ Jozefa Murgaša](www.vskk.cz) Multimédiá (Multimedia design)       |
+| 2015 - 2019   | [SPŠ Jozefa Murgaša](www.vskk.cz) Multimédiá (Multimedia design) |
 
 <h2 class="subtitle">Education</h2>
             <table class="education">
