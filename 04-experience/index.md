@@ -2,6 +2,7 @@
 +421 123 456 789 <br>
 e.mail@gmail.com <br>
 
+[Vysoká škola kreativní komunikace](https://www.vskk.cz)
 
 |Year|School|Field of study|
 |:--- |:--- |:--- |
@@ -14,8 +15,6 @@ e.mail@gmail.com <br>
 2017 - 2020|[Stylesection](https://www.style-shop.cz)<br>E-commerce project |<br>**Graphic designer**<br><br>- Managing design and visual identity from start to finish<br><br>- Direct experience with content creation and managing advertising campaigns<br><br>- Design of PPC banners, managing web content, newsletters, product photography, OOH design<br><br>
 
 <h3> Software & other </h3>
-
-[Vysoká škola kreativní komunikace](https://www.vskk.cz)
 
 **Adobe Illustrator, Photoshop, Lightroom** - Proficient - *Everyday workflow* <br>
 **Adobe Premiere Pro, After Effects** - Competent - *Advanced occasional user*<br>
