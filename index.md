@@ -1,4 +1,5 @@
 # Jakub Kula
+![alt text](img/social-preview.png)
 ---
 
 ## Get to know me:
