@@ -5,7 +5,7 @@
 Hi! I'm Jakub Kula and I see design as an important contribution to society.
 I’m a designer mainly focused on advertising and logo design.
 
-Check out my [about page](03-aboutness/) to learn more.
+Check out my [about page](03-aboutness/) to learn more. <br>
 You can view the online version of my CV [here](04-experience/).
 
 ## Coursework overview:
