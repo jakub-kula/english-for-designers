@@ -1,5 +1,5 @@
 # Jakub Kula
-<img src="img/social-preview.png" alt="-" width="400">
+<img src="img/social-preview.png" alt="-" width="800">
 ---
 
 ## Get to know me:
