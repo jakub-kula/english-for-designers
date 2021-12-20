@@ -1,13 +1,12 @@
 <h2 class="subtitle">Jakub Kula</h2>
 +421 123 456 789 <br>
 e.mail@gmail.com <br>
-www.jakubkula.eu
+www.jakubkula.eu<br>
 
-
-|Year|School|
-|-|-|
-| 2019 - Current | [Vysoká škola kreativní komunikace](www.vskk.cz) - Grafický a mediální design (Graphic and Media Design) |
-| 2015 - 2019   | [SPŠ Jozefa Murgaša](www.spsjm.sk) Multimédiá (Multimedia design) |
+|Year|School|Field of study|
+|-|-|-|
+| 2019 - Current | [Vysoká škola kreativní komunikace](www.vskk.cz) | Grafický a mediální design (Graphic and Media Design) |
+| 2015 - 2019   | [SPŠ Jozefa Murgaša](www.spsjm.sk) | Multimédiá (Multimedia design) |
 
 |Year|Employer|Experience|
 |-|-|-|
