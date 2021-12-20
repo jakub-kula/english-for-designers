@@ -2,7 +2,7 @@
 ---
 
 ## Get to know me:
-Hi! I'm Jakub Kula and I see design as an important contribution to society.
+Hi! I'm Jakub Kula and I see design as an important contribution to society.<br>
 I’m a designer mainly focused on advertising and logo design.
 
 Check out my [about page](03-aboutness/) to learn more. <br>
