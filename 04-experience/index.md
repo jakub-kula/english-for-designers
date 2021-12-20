@@ -10,7 +10,8 @@ www.jakubkula.eu
 
 |Year|Employer|Experience|
 |-|-|-|
-2020 - Current|[Notigo Agency](www.spsjm.sk) - Advertising Agency |Main Graphic Designer / Art Director<br>Managing clients' visual identities<br>Online: social media design and content creation, newsletters, designing advertising campaigns, webdesign<br>Print: general OOH design, flyers, posters, banners, business cards<br>Other: logo design, corporate identity, motion design, photography
+2020 - Current|[Notigo Agency](www.spsjm.sk) - Advertising Agency |**Main Graphic Designer / Art Director**<br>Managing clients' visual identities<br>Online: social media design and content creation, newsletters, designing advertising campaigns, webdesign<br>Print: general OOH design, flyers, posters, banners, business cards<br>Other: logo design, corporate identity, motion design, photography
+2017 - 2020|[Stylesection](www.style-shop.cz) - E-commerce project |**Graphic designer**<br>Managing design and visual identity from start to finish<br>Direct experience with content creation and managing advertising campaigns<br>Design of PPC banners, managing web content, newsletters, product photography, OOH design
 
 <h2 class="subtitle">Education</h2>
             <table class="education">
