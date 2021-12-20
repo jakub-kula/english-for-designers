@@ -6,7 +6,7 @@ e.mail@gmail.com <br>
 |Year|School|Field of study|
 |:--- |:--- |:--- |
 | 2019 - Current | [Vysoká škola kreativní komunikace](www.vskk.cz) | Grafický a mediální design (Graphic and Media Design) |
-| 2015 - 2019   | [SPŠ Jozefa Murgaša](www.spsjm.sk) | Multimédiá (Multimedia design) |
+| 2015 - 2019   | [SPŠ Jozefa Murgaša](https://www.spsjm.sk) | Multimédiá (Multimedia design) |
 
 |Year|Employer|Experience|
 |:--- |:--- |:--- |
