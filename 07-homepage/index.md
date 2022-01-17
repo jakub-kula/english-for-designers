@@ -13,17 +13,17 @@ You can view the online version of my CV [here](04-experience/).
 ## Coursework overview:
 #### [Composition](../00-composition/index.md) 
 Initial coursework assignment. Instructions for a simple icebreaker. 
-#### [Character & Description](01-character-description/)
+#### [Character & Description](../01-character-description/index.md)
 Artwork presentation with the intention of writing good alternative text descriptions.
-#### [Impression](02-impression/)
+#### [Impression](../02-impression/index.md)
 Choice of a few portfolio pieces for presentation.
-#### [Aboutness](03-aboutness/)
+#### [Aboutness](../03-aboutness/index.md)
 Personal about page. My story as a designer and a short [case study](03-aboutness/case-study.md/).
-#### [Experience](04-experience/)
+#### [Experience](../04-experience/index.md)
 My very own online CV.
-#### [Voice & Tone](05-voice-tone/)
+#### [Voice & Tone](../05-voice-tone/index.md)
 A summary of how I write and style texts.
-#### [Storytelling](06-storytelling/)
+#### [Storytelling](../06-storytelling/index.md)
 Story of my (design) life. (WIP)
 
 
