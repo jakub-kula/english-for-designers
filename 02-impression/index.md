@@ -2,6 +2,16 @@
 
 ---
 
+## Wedos
+
+Logo & identity redesign for a webhosting company. <br>
+Learn more about the project in a short [case study.](../03-aboutness/case-study.md)
+
+<img src="..03-aboutness/img/00-intro.png" alt="-" width="800">
+
+<br>
+<br>
+
 ## Kafánek
 
 Redesign, visual identity management, webdesign & packaging for a new coffe product. <br>
@@ -38,3 +48,4 @@ Webdesign for a telecommunications provider. <br>
 Click through the design [here.](https://xd.adobe.com/view/088b00fd-8a80-4682-a7ca-578c9fbecccd-5dd8/?fullscreen&hints=off)
 
 <img src="img/project_wia.png" alt="-" width="800">
+
