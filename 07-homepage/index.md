@@ -11,7 +11,7 @@ Check out my [about page](03-aboutness/) to learn more. <br>
 You can view the online version of my CV [here](04-experience/).
 
 ## Coursework overview:
-#### [Composition](../00-composition/) 
+#### [Composition](../00-composition/index.md) 
 Initial coursework assignment. Instructions for a simple icebreaker. 
 #### [Character & Description](01-character-description/)
 Artwork presentation with the intention of writing good alternative text descriptions.
