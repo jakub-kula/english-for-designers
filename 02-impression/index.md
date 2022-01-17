@@ -1,9 +1,9 @@
-# Jakub Kula
+# Jakub Kula - Impression
 
 ---
 
-## My work:
-#### AntiPlagiátori
+## AntiPlagiátori
+
 A community-driven antiplagiarism campaign <br>
 Lean more on [www.antiplagiatori.sk](https://www.antiplagiatori.sk)
 
