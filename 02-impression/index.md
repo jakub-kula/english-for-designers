@@ -5,7 +5,7 @@
 ## Wedos
 
 Logo & identity redesign for a webhosting company. <br>
-Learn more about the project in a short [case study.](../03-aboutness/case-study.md)
+Learn more about the project in a short [case study.](https://jakub-kula.github.io/english-for-designers/03-aboutness/case-study.html)
 
 <img src="../03-aboutness/img/02_after.png" alt="-" width="800">
 
