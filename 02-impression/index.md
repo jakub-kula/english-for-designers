@@ -11,6 +11,7 @@ Lean more on [www.antiplagiatori.sk](https://www.antiplagiatori.sk)
 
 <br>
 <br>
+
 ## Kafánek
 
 Redesign, visual identity management, webdesign & packaging for a new coffe product. <br>
@@ -20,6 +21,7 @@ Feel free to browse through the newest interactive [website prototype.](https://
 
 <br>
 <br>
+
 ## Notigo
 
 Visual identity management and webdesign for an advertising agency. <br>
