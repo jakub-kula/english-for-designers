@@ -28,3 +28,13 @@ Visual identity management and webdesign for an advertising agency. <br>
 Take a look at the in-progress [website prototype.](https://xd.adobe.com/view/b914b2cc-df71-420d-91a1-51f79c2dc039-ec47/)
 
 <img src="img/project_not.png" alt="-" width="800">
+
+<br>
+<br>
+
+## Wia
+
+Webdesign for a telecommunications provider. <br>
+Click through the design [here.](https://xd.adobe.com/view/088b00fd-8a80-4682-a7ca-578c9fbecccd-5dd8/?fullscreen&hints=off)
+
+<img src="img/project_wia.png" alt="-" width="800">
