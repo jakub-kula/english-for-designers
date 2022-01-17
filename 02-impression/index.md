@@ -7,7 +7,7 @@
 Logo & identity redesign for a webhosting company. <br>
 Learn more about the project in a short [case study.](../03-aboutness/case-study.md)
 
-<img src="..03-aboutness/img/00_intro.png" alt="-" width="800">
+<img src="../03-aboutness/img/00_intro.png" alt="-" width="800">
 
 <br>
 <br>
