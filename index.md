@@ -15,8 +15,8 @@ You can view the online version of my CV [here](04-experience/).
 Initial coursework assignment. Instructions for a simple icebreaker. 
 #### [Character & Description](01-character-description/)
 Artwork presentation with the intention of writing good alternative text descriptions.
-#### [Impression (WIP)](02-impression/)
-Choice of my best portfolio pieces for presentation. (WIP)
+#### [Impression](02-impression/)
+Choice of my best portfolio pieces for presentation.
 #### [Aboutness](03-aboutness/)
 Personal about page. My story as a designer and a short [case study](03-aboutness/case-study.md/).
 #### [Experience](04-experience/)
