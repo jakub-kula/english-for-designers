@@ -49,12 +49,3 @@ Click through the design [here.](https://xd.adobe.com/view/088b00fd-8a80-4682-a7
 
 <img src="img/project_wia.png" alt="-" width="800">
 
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
