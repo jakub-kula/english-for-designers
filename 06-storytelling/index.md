@@ -48,3 +48,11 @@ Take a look at the in-progress [website prototype.](https://xd.adobe.com/view/b9
 
 <br>
 <br>
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
