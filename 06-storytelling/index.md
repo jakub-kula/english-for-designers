@@ -43,11 +43,3 @@ Take a look at the in-progress [website prototype.](https://xd.adobe.com/view/b9
 
 <br>
 <br>
-
-## Wia
-
-Webdesign for a telecommunications provider. <br>
-Click through the design [here.](https://xd.adobe.com/view/088b00fd-8a80-4682-a7ca-578c9fbecccd-5dd8/?fullscreen&hints=off)
-
-<img src="../02-impression/img/project_wia.png" alt="-" width="800">
-
