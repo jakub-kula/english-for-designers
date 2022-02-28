@@ -19,7 +19,7 @@ Learn more about the project in a short [case study.](https://jakub-kula.github.
 Redesign, visual identity management, webdesign & packaging for a new coffe product. <br>
 Feel free to browse through the newest interactive [website prototype.](https://xd.adobe.com/view/4994c612-692e-4aec-8ab3-58c83ca96af1-1cc7/?fullscreen)
 
-<img src=".../02-impression/img/project_kaf.png" alt="-" width="800">
+<img src="../02-impression/img/project_kaf.png" alt="-" width="800">
 
 <br>
 <br>
