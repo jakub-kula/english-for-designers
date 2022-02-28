@@ -48,11 +48,13 @@ Take a look at the in-progress [website prototype.](https://xd.adobe.com/view/b9
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+Notes:
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+ddd
 ```
