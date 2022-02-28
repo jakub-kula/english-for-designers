@@ -71,4 +71,5 @@ When designing, I mainly focus on clarity, simplicity and the correct delivery o
 The conclusion is to always be yourself. Try to find what fits you the best and never stop exploring opportunities around you. You never know where you might end up.
 Bringing this presentation to an end I'd like to show you some of my work to make a picture about me and my work.
 Thanks for your attention and feel free to ask me anything.
+
 ---
