@@ -39,12 +39,6 @@ Lean more on [www.antiplagiatori.sk](https://www.antiplagiatori.sk)
 <br>
 <br>
 
-## Notigo
-
-Visual identity management and webdesign for an advertising agency. <br>
-Take a look at the in-progress [website prototype.](https://xd.adobe.com/view/b914b2cc-df71-420d-91a1-51f79c2dc039-ec47/)
-
-<img src="../02-impression/img/project_not.png" alt="-" width="800">
 
 <br>
 <br>
