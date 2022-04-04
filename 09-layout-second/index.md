@@ -12,6 +12,6 @@ graphic design, non-profit, visual identity, branding, logo, marketing, advetise
 
 ## Presentation
 
-To be added...
+Mid-progress presentation of the current design stage.
 
 <a href="presentation.pdf" target="_blank">Presentation</a>
