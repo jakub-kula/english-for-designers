@@ -3,7 +3,7 @@
 - [Keywords](#keywords)
 - [Key Points](#key-points)
 
-# Visual identity of a non-profit organization
+# Visual Identity of a Non-Profit Organization
 ---
 ## Summary
 The aim of my thesis is to create a functional and effective visual identity for a non-profit organization called Vydra. My thesis also focuses on analyzing the market of non-profit organizations.
