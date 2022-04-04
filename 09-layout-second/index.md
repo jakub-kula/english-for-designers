@@ -13,3 +13,5 @@ graphic design, non-profit, visual identity, branding, logo, marketing, advetise
 ## Presentation
 
 To be added...
+
+<a href="presentation.pdf" target="_blank">Presentation</a>
