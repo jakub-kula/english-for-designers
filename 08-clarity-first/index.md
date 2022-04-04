@@ -11,7 +11,7 @@ My main goal is to create a visual identity that corresponds with the values and
 
 <details>
   <summary><b>Mind Map</b></summary>
-  <img alt="Thesis mind map" src="mindmap.png">
+  <img alt="Thesis mind map" src="img/mindmap.png">
 </details>
 
 ## Keywords
