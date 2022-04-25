@@ -48,4 +48,4 @@ The visual identity uses iconography in three different use cases. One of them i
 
 Coming to an end, I would like to showcase the visual identity in some real world use cases. These images represent the intended outcome of combining all the different elements of the visual identity into a final unified product.
 
-<img src="mockups.png" alt="Visual identity presented in different use cases" width="1920px"/>
+<img src="img/mockups.png" alt="Visual identity presented in different use cases" width="1920px"/>
