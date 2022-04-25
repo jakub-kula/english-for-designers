@@ -1,14 +1,14 @@
 - [Summary](#thesis-summary)
-- [Kewords](#thesis-keywords)
-- [Insights](#insight-into-my-work)
+- [Key words](#thesis-key-words)
+- [Key points](#key-points)
 - [Visuals](#visuals)
 
 # Visual Identity of a Non-Profit Organization
 ---
 ## Thesis summary
-The main goal of this thesis is to create a visual identity for Vydra, a non-profit organization (NFPO). With an emphasis to create a design that speaks for itself and a unique visual identity. The topic originates from personal interest in visual identities and logo design alongside the author's personal knowledge of the values and ideas of the organization. This thesis also focuses on analyzing and researching other NFPOs and creating concepts of marketing and communication strategies.
+The main goal of my thesis was to create a visual identity for Vydra, a non-profit organization (NFPO). With an emphasis to create a design that speaks for itself and a unique visual identity. The topic originated from my personal interest in visual identities and logo design alongside my personal knowledge of the values and ideas of the organization. My thesis also focuses on analyzing and researching other NFPOs and creating concepts of marketing and communication strategies.
 
-## Thesis keywords
+## Thesis key words
 - Graphic Design
 - Non-Profit
 - Visual Identity
@@ -20,7 +20,10 @@ The main goal of this thesis is to create a visual identity for Vydra, a non-pro
 - Social Media
 - Advertisement
 
-## Insight into my work
+## Key points
+**About Vydra**<br>
+In short, Vydra could be characterized as a non-profit organization with the aim of providing a wide range of services including organizing dirrefent cultural activities and adding overall value to the local and general public. Vydra functions as a non-profit organization and is volunteer-driven. It is the cooperation of these two parts of the organization that forms its essential basis. Vydra, since its origin in 1997, stands on a strong community basis.
+
 **Topic choice:**<br>
 I chose this topic because, when it comes to design, I have an inclination towards visual identities. Also, designing a visual identity provides for a wide range of creative opportunities. Choice of the subject was a simple process since I have been a volunteer of Vydra since 2015.
 
