@@ -32,6 +32,6 @@ The previous visual identity of Vydra was almost non-existent. I am personally i
 
 ## Visuals
 
-<img src="img/introduction.jpg" alt="Different logo design variants" width="1920px"/>
-<img src="img/additional.jpg" alt="Additional design elements" width="1920px"/>
-<img src="mockups.jpg" alt="Visual identity presented in different use cases" width="1920px"/>
+<img src="img/introduction.png" alt="Different logo design variants" width="1920px"/>
+<img src="img/additional.png" alt="Additional design elements" width="1920px"/>
+<img src="mockups.png" alt="Visual identity presented in different use cases" width="1920px"/>
