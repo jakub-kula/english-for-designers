@@ -24,8 +24,12 @@ The main goal of my thesis was to create a visual identity for Vydra, a non-prof
 **About Vydra**<br>
 In short, Vydra could be characterized as a non-profit organization with the aim of providing a wide range of services including organizing dirrefent cultural activities and adding overall value to the local and general public. Vydra functions as a non-profit organization and is volunteer-driven. It is the cooperation of these two parts of the organization that forms its essential basis. Vydra, since its origin in 1997, stands on a strong community basis.
 
+<img src="img/mood.png" alt="Additional design elements" width="1920px"/>
+
 **Topic choice:**<br>
 I chose this topic because, when it comes to design, I have an inclination towards visual identities. Also, designing a visual identity provides for a wide range of creative opportunities. Choice of the subject was a simple process since I have been a volunteer of Vydra since 2015.
+
+<img src="img/community.png" alt="Additional design elements" width="1920px"/>
 
 **Main goal:**<br>
 The aim of my work was to create a functional and effective visual identity that meets the ideology and specific requirements of the organization and to describe the process that preceded the creation itself. I was hoping to create a unique visual identity that will proudly represent Vydra. The main real life inpact of my work will hopefully be a notable rise in brand visibility and an increase of public interest.
