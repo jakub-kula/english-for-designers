@@ -28,11 +28,11 @@ Story of my (design) life.
 
 ---
 #### [Clarity First](08-clarity-first/)
-dddd
+Introduction into my thesis - focus on content and clarity.
 #### [Layout Second](09-layout-second/)
-dddd
+Sort thesis pitch & presentation.
 #### [Thesis Digest](10-thesis-digest/)
-dddd
+Expanded, academic-style thesis digest.
 #### [Presentation](11-presentation/)
 Final presentation.
 
