@@ -24,10 +24,21 @@ My very own online CV.
 #### [Voice & Tone](05-voice-tone/)
 A summary of how I write and style texts.
 #### [Storytelling](06-storytelling/)
-Story of my (design) life. (WIP)
+Story of my (design) life.
+---
+#### [Clarity First](08-clarity-first/)
+dddd
+#### [Layout Second](09-layout-second/)
+dddd
+#### [Thesis Digest](10-thesis-digest/)
+dddd
+#### [Presentation](11-presentation/)
+Final presentation.
+---
+#### [Year Review](year-review/)
+Final presentation.
 
-
-## Takeaways:
+## 1st Semester Takeaways:
 Here are a few things I learned this semester.
 1. I was finally pushed to start using github in some way or another.
 2. Content itself is more important than getting my spelling right.
