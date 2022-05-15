@@ -25,6 +25,7 @@ My very own online CV.
 A summary of how I write and style texts.
 #### [Storytelling](06-storytelling/)
 Story of my (design) life.
+
 ---
 #### [Clarity First](08-clarity-first/)
 dddd
@@ -34,6 +35,7 @@ dddd
 dddd
 #### [Presentation](11-presentation/)
 Final presentation.
+
 ---
 #### [Year Review](year-review/)
 Final presentation.
