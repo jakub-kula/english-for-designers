@@ -40,10 +40,3 @@ Final presentation.
 #### [Year Review](year-review/)
 Final presentation.
 
-## 1st Semester Takeaways:
-Here are a few things I learned this semester.
-1. I was finally pushed to start using github in some way or another.
-2. Content itself is more important than getting my spelling right.
-3. I realized the importance of writing good, acessible and clear text.
-4. Writing is hard. Even in my native language.
-
