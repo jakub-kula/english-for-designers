@@ -35,8 +35,6 @@ Sort thesis pitch & presentation.
 Expanded, academic-style thesis digest.
 #### [Presentation](11-presentation/)
 Final presentation.
-
----
 #### [Year Review](year-review/)
 Final presentation.
 
